@@ -10,10 +10,10 @@ https://snak.news/about
 - slack webhook
 
 # TODO about code
-[] Resolve deprecation in botocore.vendored.requests before 2020.3.31
-[] Add comment at every functions
-[] modualarization: Add proper file tree
+- [ ] Resolve deprecation in botocore.vendored.requests before 2020.3.31
+- [ ] Add comment at every functions
+- [ ] modualarization: Add proper file tree
 
 # TODO about product
-[] slack workspace 에 연동하면 노티 올 수 있게 하기
-[] Use advanced message components for fancy UI
+- [ ] slack workspace 에 연동하면 노티 올 수 있게 하기
+- [ ] Use advanced message components for fancy UI

@@ -5,11 +5,15 @@
 스낵은 유니콘 기업 관련 정보 모음 사이트입니다.
 https://snak.news/about
 
-# spec
+# Spec about development
 - python 3.7
 - slack webhook
+- AWS lambda
 
-# TODO about code
+# Spec about product
+- 매일 아침 9시 50분 pozalabs slack workspace #random 에 노티
+
+# TODO about development
 - [ ] Resolve deprecation in botocore.vendored.requests before 2020.3.31
 - [ ] Add comment at every functions
 - [ ] modualarization: Add proper file tree
